@@ -1,17 +1,12 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+A personal finance and expense tracking mobile application built with Flutter. It allows users to log daily income and expenses, categorize transactions, and visualize spending patterns through interactive charts.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Transaction Management:** Add, edit, and delete income and expense entries with custom notes and timestamps.
+- **Category Filtering:** Organize spending across categories such as Food, Transport, Shopping, Bills, and Entertainment.
+- **Spending Analytics:** View weekly and monthly expense breakdowns via interactive pie and bar charts.
+- **Balance Summary:** Real-time calculation of total balance, total income, and total expenses.
+- **Local Persistence:** Offline-first data storage ensuring transaction history remains saved across sessions.
+- **Dark Mode Support:** Adaptive UI built for comfortable viewing in low-light environments.
